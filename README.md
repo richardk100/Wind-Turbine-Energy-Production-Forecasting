@@ -1,5 +1,4 @@
 # Wind-Turbine-Energy-Production-Forecasting
-# Wind Turbine Energy Production Forecasting
 
 This project involves analyzing and forecasting wind turbine energy production using time series decomposition and SARIMAX modeling. The dataset includes monthly energy production data, and the goal is to detrend the data, decompose it into its components, and forecast future energy production.
 
